@@ -1,0 +1,1 @@
+console.log("DERI CATUR WIJAYA"+" "+"XI TEL 12");
